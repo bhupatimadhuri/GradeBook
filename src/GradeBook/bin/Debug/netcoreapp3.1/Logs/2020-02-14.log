@@ -1,0 +1,1709 @@
+[2020-02-14 05:41:04.2606] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 05:41:04.3581] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory 
+[2020-02-14 05:41:04.3844] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:41:04.3941] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:41:10.7833] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 05:41:10.7913] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 05:41:10.7913] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 05:41:10.8064] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 05:41:10.8064] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 05:41:10.8224] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 05:41:10.8224] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 05:41:10.8391] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 05:41:10.8391] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 05:41:10.8589] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 05:41:10.8589] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 05:41:10.8727] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 05:41:10.8727] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 05:41:10.8869] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 05:41:10.8869] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 05:41:10.8869] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 05:41:10.9053] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 05:41:10.9053] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 05:41:10.9197] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 05:41:10.9197] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 05:41:10.9320] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 05:41:12.6210] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:41:12.6210] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 05:41:12.6363] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 05:41:12.6363] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 05:41:12.6505] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 05:41:12.6505] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 05:41:12.6694] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 05:41:12.6694] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 05:41:12.6853] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 05:41:12.6853] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 05:41:12.7021] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 05:41:12.7021] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:41:12.7210] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:41:15.0616] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 05:41:15.0724] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 05:41:15.0724] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 05:41:15.0915] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 05:41:15.0915] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 05:41:15.1076] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 05:41:15.1076] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 05:41:15.1264] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 05:41:15.1347] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 05:41:15.1347] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 05:41:15.1522] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 05:41:15.1522] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 05:41:15.1670] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 05:41:15.1670] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 05:41:15.1836] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 05:41:15.1836] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 05:41:15.1988] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 05:41:15.1988] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 05:41:15.2133] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 05:41:15.2133] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 05:41:16.8595] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:41:16.8699] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 05:41:16.8699] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 05:41:16.8868] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 05:41:16.8868] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 05:41:16.9031] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 05:41:16.9031] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 05:41:16.9226] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 05:41:16.9226] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 05:41:16.9383] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 05:41:16.9383] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 05:41:16.9537] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 05:41:16.9537] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:41:16.9702] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:41:18.3391] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 05:41:18.3391] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 05:41:18.3580] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 05:41:18.3580] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 05:41:18.3755] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 05:41:18.3755] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 05:41:18.3922] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 05:41:18.4043] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 05:41:18.4043] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 05:41:18.4186] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 05:41:18.4186] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 05:41:18.4315] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 05:41:18.4315] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 05:41:18.4315] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 05:41:18.4507] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 05:41:18.4507] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 05:41:18.4507] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 05:41:18.4688] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 05:41:18.4688] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 05:41:18.4804] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 05:41:19.3106] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:41:19.3106] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 05:41:19.3316] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 05:41:19.3401] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 05:41:19.3401] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 05:41:19.3561] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 05:41:19.3561] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 05:41:19.3739] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 05:41:19.3739] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 05:41:19.3910] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 05:41:19.4012] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 05:41:19.4012] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 05:41:19.4168] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:41:19.4168] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:41:41.6817] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:41:41.6977] [DEBUG] [GradeBook.DiskBook] Average of class: NaN 
+[2020-02-14 05:44:52.2851] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 05:44:52.3284] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory 
+[2020-02-14 05:44:52.3460] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:44:52.3551] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:44:53.4892] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 05:44:53.5028] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 05:44:53.5111] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 05:44:53.5111] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 05:44:53.5290] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 05:44:53.5290] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 05:44:53.5468] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 05:44:53.5468] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 05:44:53.5628] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 05:44:53.5628] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 05:44:53.5790] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 05:44:53.5790] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 05:44:53.5951] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 05:44:53.6030] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 05:44:53.6030] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 05:44:53.6030] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 05:44:53.6224] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 05:44:53.6224] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 05:44:53.6360] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 05:44:53.6360] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 05:44:53.6497] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 05:44:54.3549] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:44:54.3549] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 05:44:54.3725] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 05:44:54.3725] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 05:44:54.3909] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 05:44:54.3909] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 05:44:54.4080] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 05:44:54.4204] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 05:44:54.4204] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 05:44:54.4393] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 05:44:54.4480] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 05:44:54.4480] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:44:54.4697] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:44:55.0498] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 05:44:55.0662] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 05:44:55.0783] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 05:44:55.0916] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 05:44:55.0916] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 05:44:55.1095] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 05:44:55.1095] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 05:44:55.1241] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 05:44:55.1241] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 05:44:55.1431] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 05:44:55.1512] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 05:44:55.1512] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 05:44:55.1512] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 05:44:55.1731] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 05:44:55.1731] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 05:44:55.1881] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 05:44:55.1881] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 05:44:55.2028] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 05:44:55.2028] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 05:44:55.2180] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 05:44:55.9091] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:44:55.9210] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 05:44:55.9210] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 05:44:55.9387] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 05:44:55.9471] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 05:44:55.9471] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 05:44:55.9706] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 05:44:55.9788] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 05:44:55.9788] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 05:44:55.9989] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 05:44:55.9989] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 05:44:56.0178] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 05:44:56.0258] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:44:56.0258] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:44:56.6039] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 05:44:56.6206] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 05:44:56.6206] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 05:44:56.6394] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 05:44:56.6394] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 05:44:56.6542] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 05:44:56.6542] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 05:44:56.6700] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 05:44:56.6700] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 05:44:56.6868] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 05:44:56.6868] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 05:44:56.7030] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 05:44:56.7030] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 05:44:56.7189] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 05:44:56.7189] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 05:44:56.7313] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 05:44:56.7313] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 05:44:56.7478] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 05:44:56.7478] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 05:44:56.7631] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 05:44:57.3347] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:44:57.3454] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 05:44:57.3547] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 05:44:57.3547] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 05:44:57.3744] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 05:44:57.3853] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 05:44:57.3853] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 05:44:57.4050] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 05:44:57.4188] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 05:44:57.4188] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 05:44:57.4388] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 05:44:57.4474] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 05:44:57.4474] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:44:57.4661] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:44:58.5080] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:44:58.5205] [DEBUG] [GradeBook.DiskBook] Average of class: NaN 
+[2020-02-14 05:50:25.3876] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 05:50:25.4392] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 4 
+[2020-02-14 05:50:25.4468] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:50:25.4468] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:50:30.4621] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 05:50:30.4762] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 05:50:30.4865] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 05:50:30.4949] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 05:50:30.4949] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 05:50:30.5126] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 05:50:30.5126] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 05:50:30.5310] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 05:50:30.5310] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 05:50:30.5488] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 05:50:30.5579] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 05:50:30.5579] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 05:50:30.5759] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 05:50:30.5759] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 05:50:30.5927] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 05:50:30.5927] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 05:50:30.6078] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 05:50:30.6078] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 05:50:30.6223] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 05:50:30.6223] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 05:50:30.6367] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 05:50:30.6367] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:50:30.6519] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 05:50:30.6519] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 05:50:30.6653] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 05:50:30.6653] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 05:50:30.6974] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 05:50:30.7133] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 05:50:30.7133] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 05:50:30.7324] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 05:50:30.7437] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 05:50:30.7437] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 05:50:30.7643] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:50:30.7643] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:50:31.8393] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 05:50:31.8393] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 05:50:31.8638] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 05:50:31.8745] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 05:50:31.8870] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 05:50:31.8870] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 05:50:31.9100] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 05:50:31.9210] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 05:50:31.9210] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 05:50:31.9396] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 05:50:31.9490] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 05:50:31.9490] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 05:50:31.9678] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 05:50:31.9678] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 05:50:31.9869] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 05:50:31.9956] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 05:50:31.9956] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 05:50:32.0125] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 05:50:32.0125] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 05:50:32.0281] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 05:50:32.0281] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:50:32.0467] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 05:50:32.0467] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 05:50:32.0631] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 05:50:32.0773] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 05:50:32.0888] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 05:50:32.0888] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 05:50:32.1101] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 05:50:32.1101] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 05:50:32.1251] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 05:50:32.1251] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 05:50:32.1461] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 05:50:32.1548] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:50:32.1548] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:50:32.9543] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 05:50:32.9681] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 05:50:32.9794] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 05:50:32.9794] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 05:50:33.0046] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 05:50:33.0151] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 05:50:33.0260] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 05:50:33.0260] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 05:50:33.0492] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 05:50:33.0586] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 05:50:33.0586] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 05:50:33.0813] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 05:50:33.0917] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 05:50:33.0917] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 05:50:33.1110] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 05:50:33.1199] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 05:50:33.1199] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 05:50:33.1418] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 05:50:33.1418] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 05:50:33.1580] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 05:50:33.1708] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:50:33.1855] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 05:50:33.1855] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 05:50:33.2052] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 05:50:33.2141] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 05:50:33.2141] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 05:50:33.2317] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 05:50:33.2317] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 05:50:33.2530] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 05:50:33.2637] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 05:50:33.2637] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 05:50:33.2772] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 05:50:33.2772] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:50:33.2772] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:50:33.2971] [INFO] [GradeBook.DiskBook] Empty file cannot be processed, File name is: ClassGrades\ClassD.csv 
+[2020-02-14 05:50:33.2971] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:50:33.3119] [DEBUG] [GradeBook.DiskBook] Average of class: NaN 
+[2020-02-14 05:53:40.1212] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 05:53:40.1626] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 4 
+[2020-02-14 05:53:40.1711] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:53:40.1867] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:53:44.6627] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 05:53:44.6731] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 05:53:44.6731] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 05:53:44.6873] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 05:53:44.6873] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 05:53:44.7027] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 05:53:44.7027] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 05:53:44.7162] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 05:53:44.7162] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 05:53:44.7310] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 05:53:44.7310] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 05:53:44.7464] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 05:53:44.7464] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 05:53:44.7612] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 05:53:44.7612] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 05:53:44.7758] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 05:53:44.7758] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 05:53:44.7908] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 05:53:44.7908] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 05:53:44.7908] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 05:53:44.8130] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 05:53:44.8130] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:53:44.8296] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 05:53:44.8296] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 05:53:44.8437] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 05:53:44.8437] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 05:53:44.8583] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 05:53:44.8583] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 05:53:44.8777] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 05:53:44.8873] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 05:53:44.8873] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 05:53:44.9122] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 05:53:44.9264] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:53:44.9366] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:53:46.1522] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 05:53:46.1522] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 05:53:46.1726] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 05:53:46.1814] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 05:53:46.1814] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 05:53:46.1996] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 05:53:46.1996] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 05:53:46.2176] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 05:53:46.2176] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 05:53:46.2367] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 05:53:46.2439] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 05:53:46.2439] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 05:53:46.2599] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 05:53:46.2599] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 05:53:46.2755] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 05:53:46.2755] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 05:53:46.2905] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 05:53:46.2905] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 05:53:46.3065] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 05:53:46.3065] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 05:53:46.3257] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:53:46.3257] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 05:53:46.3423] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 05:53:46.3423] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 05:53:46.3667] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 05:53:46.3752] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 05:53:46.3926] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 05:53:46.4038] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 05:53:46.4038] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 05:53:46.4228] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 05:53:46.4228] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 05:53:46.4378] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 05:53:46.4378] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:53:46.4518] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 05:53:49.3590] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 05:53:49.3708] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 05:53:49.3708] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 05:53:49.3908] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 05:53:49.3908] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 05:53:49.4114] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 05:53:49.4215] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 05:53:49.4215] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 05:53:49.4388] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 05:53:49.4388] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 05:53:49.4511] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 05:53:49.4511] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 05:53:49.4651] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 05:53:49.4651] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 05:53:49.4651] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 05:53:49.4836] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 05:53:49.4836] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 05:53:49.4971] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 05:53:49.4971] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 05:53:49.5100] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 05:53:49.5100] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 05:53:49.5100] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 05:53:49.5290] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 05:53:49.5290] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 05:53:49.5439] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 05:53:49.5439] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 05:53:49.5575] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 05:53:49.5575] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 05:53:49.5719] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 05:53:49.5719] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 05:53:49.5880] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 05:53:49.5880] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 05:53:49.5880] [INFO] [GradeBook.MainClass] FilePath:  
+[2020-02-14 05:53:49.6097] [INFO] [GradeBook.MainClass] Empty file cannot be processed, File name is: ClassGrades\ClassD.csv 
+[2020-02-14 05:57:05.5097] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 05:57:05.6597] [ERROR] [GradeBook.MainClass] Could not find a part of the path 'C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\Input'.   at System.IO.Enumeration.FileSystemEnumerator`1.CreateDirectoryHandle(String path, Boolean ignoreNotFound)
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerator`1..ctor(String directory, Boolean isNormalized, EnumerationOptions options)
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserFiles(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.InternalEnumeratePaths(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at GradeBook.MainClass.Main(String[] args) in C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\Program.cs:line 23 
+[2020-02-14 05:59:07.5525] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 05:59:35.3177] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 06:27:48.8661] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 06:27:48.9098] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 4 
+[2020-02-14 06:27:48.9163] [INFO] [GradeBook.MainClass] FilePath: ClassGrades\ClassA.csv 
+[2020-02-14 06:27:48.9163] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 06:27:49.7741] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 06:27:49.7841] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 06:27:49.7920] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 06:27:49.7920] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 06:27:49.8075] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 06:27:49.8075] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 06:27:49.8230] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 06:27:49.8230] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 06:27:49.8396] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 06:27:49.8396] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 06:27:49.8549] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 06:27:49.8549] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 06:27:49.8711] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 06:27:49.8711] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 06:27:49.8868] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 06:27:49.8868] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 06:27:49.9018] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 06:27:49.9018] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 06:27:49.9173] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 06:27:49.9173] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 06:27:49.9331] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 06:27:49.9331] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 06:27:49.9488] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 06:27:49.9488] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 06:27:49.9488] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 06:27:49.9669] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 06:27:49.9669] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 06:27:49.9795] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 06:27:49.9795] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 06:27:50.0042] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 06:27:50.0156] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 06:27:50.0156] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 06:27:50.0345] [INFO] [GradeBook.MainClass] FilePath: ClassGrades\ClassB.csv 
+[2020-02-14 06:27:50.0453] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 06:27:50.5753] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 06:27:50.5753] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 06:27:50.5934] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 06:27:50.6042] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 06:27:50.6042] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 06:27:50.6237] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 06:27:50.6237] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 06:27:50.6441] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 06:27:50.6546] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 06:27:50.6546] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 06:27:50.6694] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 06:27:50.6694] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 06:27:50.6819] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 06:27:50.6819] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 06:27:50.6819] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 06:27:50.7003] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 06:27:50.7003] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 06:27:50.7003] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 06:27:50.7184] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 06:27:50.7184] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 06:27:50.7295] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 06:27:50.7295] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 06:27:50.7455] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 06:27:50.7455] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 06:27:50.7455] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 06:27:50.7657] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 06:27:50.7657] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 06:27:50.7767] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 06:27:50.7767] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 06:27:50.7919] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 06:27:50.7919] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 06:27:50.7919] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 06:27:50.8105] [INFO] [GradeBook.MainClass] FilePath: ClassGrades\ClassC.csv 
+[2020-02-14 06:27:50.8105] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 06:27:51.3129] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 06:27:51.3233] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 06:27:51.3233] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 06:27:51.3433] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 06:27:51.3538] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 06:27:51.3538] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 06:27:51.3729] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 06:27:51.3844] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 06:27:51.3844] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 06:27:51.3998] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 06:27:51.3998] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 06:27:51.3998] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 06:27:51.4230] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 06:27:51.4230] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 06:27:51.4349] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 06:27:51.4349] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 06:27:51.4473] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 06:27:51.4473] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 06:27:51.4473] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 06:27:51.4657] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 06:27:51.4657] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 06:27:51.4778] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 06:27:51.4778] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 06:27:51.4778] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 06:27:51.4996] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 06:27:51.4996] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 06:27:51.5116] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 06:27:51.5116] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 06:27:51.5328] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 06:27:51.5425] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 06:27:51.5425] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 06:27:51.5617] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 06:27:51.5617] [INFO] [GradeBook.MainClass] FilePath: ClassGrades\ClassD.csv 
+[2020-02-14 06:27:51.5743] [INFO] [GradeBook.MainClass] Empty file cannot be processed, File name is: ClassGrades\ClassD.csv 
+[2020-02-14 06:59:45.3297] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 06:59:45.3783] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 3 
+[2020-02-14 06:59:45.3861] [INFO] [GradeBook.MainClass] FilePath: Input\ClassA.csv 
+[2020-02-14 06:59:45.3861] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 06:59:46.1713] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 06:59:46.1825] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 06:59:46.1825] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 06:59:46.1997] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 06:59:46.1997] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 06:59:46.2130] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 06:59:46.2130] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 06:59:46.2302] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 06:59:46.2302] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 06:59:46.2452] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 06:59:46.2452] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 06:59:46.2452] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 06:59:46.2646] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 06:59:46.2646] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 06:59:46.2762] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 06:59:46.2762] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 06:59:46.2762] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 06:59:46.2946] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 06:59:46.2946] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 06:59:46.2946] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 06:59:46.3129] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 06:59:46.3129] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 06:59:46.3275] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 06:59:46.3275] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 06:59:46.3389] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 06:59:46.3389] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 06:59:46.3389] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 06:59:46.3591] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 06:59:46.3591] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 06:59:46.3727] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 06:59:46.3727] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 06:59:46.3925] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 06:59:46.4005] [INFO] [GradeBook.MainClass] FilePath: Input\ClassB.csv 
+[2020-02-14 06:59:46.4005] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 06:59:46.6845] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 06:59:46.6845] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 06:59:46.7030] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 06:59:46.7030] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 06:59:46.7180] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 06:59:46.7180] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 06:59:46.7335] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 06:59:46.7335] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 06:59:46.7486] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 06:59:46.7486] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 06:59:46.7665] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 06:59:46.7765] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 06:59:46.7765] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 06:59:46.7929] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 06:59:46.7929] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 06:59:46.7929] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 06:59:46.8140] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 06:59:46.8140] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 06:59:46.8276] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 06:59:46.8276] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 06:59:46.8402] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 06:59:46.8402] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 06:59:46.8538] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 06:59:46.8538] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 06:59:46.8538] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 06:59:46.8720] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 06:59:46.8720] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 06:59:46.8720] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 06:59:46.8936] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 06:59:46.8936] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 06:59:46.9047] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 06:59:46.9047] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 06:59:46.9179] [INFO] [GradeBook.MainClass] FilePath: Input\ClassC.csv 
+[2020-02-14 06:59:46.9179] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 06:59:48.1795] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 06:59:48.1896] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 06:59:48.1967] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 06:59:48.1967] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 06:59:48.1967] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 06:59:48.2205] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 06:59:48.2286] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 06:59:48.2286] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 06:59:48.2447] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 06:59:48.2447] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 06:59:48.2612] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 06:59:48.2612] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 06:59:48.2777] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 06:59:48.2777] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 06:59:48.2943] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 06:59:48.2943] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 06:59:48.3124] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 06:59:48.3124] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 06:59:48.3295] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 06:59:48.3295] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 06:59:48.3474] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 06:59:48.3621] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 06:59:48.3713] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 06:59:48.3713] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 06:59:48.3971] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 06:59:48.4104] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 06:59:48.4206] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 06:59:48.4206] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 06:59:48.4384] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 06:59:48.4483] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 06:59:48.4483] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 06:59:48.4483] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 07:00:48.3828] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 07:00:48.4306] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 3 
+[2020-02-14 07:00:48.4365] [INFO] [GradeBook.MainClass] FilePath: Input\ClassA.csv 
+[2020-02-14 07:00:48.4365] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:00:49.1036] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 07:00:49.1036] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:00:49.1036] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 07:00:49.1254] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 07:00:49.1254] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 07:00:49.1360] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:00:49.1360] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:00:49.1360] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:00:49.1554] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:00:49.1554] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:00:49.1704] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 07:00:49.1704] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:00:49.1828] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:00:49.1828] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:00:49.2011] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 07:00:49.2011] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 07:00:49.2144] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 07:00:49.2144] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 07:00:49.2144] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 07:00:49.2312] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:00:49.2312] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:00:49.2312] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:00:49.2499] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 07:00:49.2499] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 07:00:49.2608] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 07:00:49.2608] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 07:00:49.2608] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 07:00:49.2785] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 07:00:49.2785] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 07:00:49.2785] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 07:00:49.2951] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 07:00:49.2951] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 07:00:49.3081] [INFO] [GradeBook.MainClass] FilePath: Input\ClassB.csv 
+[2020-02-14 07:00:49.3081] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:00:49.8923] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 07:00:49.9003] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:00:49.9003] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 07:00:49.9161] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 07:00:49.9161] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 07:00:49.9317] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 07:00:49.9317] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 07:00:49.9317] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:00:49.9559] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 07:00:49.9631] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:00:49.9631] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 07:00:49.9631] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 07:00:49.9850] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 07:00:49.9850] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:00:49.9990] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 07:00:49.9990] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 07:00:50.0142] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 07:00:50.0142] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 07:00:50.0304] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 07:00:50.0304] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 07:00:50.0452] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:00:50.0452] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 07:00:50.0595] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 07:00:50.0595] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 07:00:50.0749] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 07:00:50.0749] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 07:00:50.0904] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 07:00:50.0904] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 07:00:50.1115] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 07:00:50.1219] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 07:00:50.1219] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 07:00:50.1463] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 07:00:50.1548] [INFO] [GradeBook.MainClass] FilePath: Input\ClassC.csv 
+[2020-02-14 07:00:50.1662] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:00:50.6336] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 07:00:50.6436] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 07:00:50.6505] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 07:00:50.6505] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 07:00:50.6660] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:00:50.6660] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:00:50.6831] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 07:00:50.6831] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 07:00:50.6831] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:00:50.7011] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:00:50.7011] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 07:00:50.7181] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 07:00:50.7181] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 07:00:50.7301] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 07:00:50.7301] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:00:50.7301] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:00:50.7489] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:00:50.7489] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:00:50.7604] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 07:00:50.7604] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 07:00:50.7604] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:00:50.7779] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 07:00:50.7779] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 07:00:50.7779] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 07:00:50.7961] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 07:00:50.7961] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 07:00:50.8103] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 07:00:50.8103] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 07:00:50.8103] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 07:00:50.8274] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 07:00:50.8274] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 07:00:50.8384] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 07:01:45.5564] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 07:01:45.6100] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 3 
+[2020-02-14 07:01:45.6100] [INFO] [GradeBook.MainClass] FilePath: Input\ClassA.csv 
+[2020-02-14 07:01:45.6246] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:01:46.3793] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 07:01:46.3918] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:01:46.4011] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 07:01:46.4011] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 07:01:46.4180] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 07:01:46.4180] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:01:46.4341] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:01:46.4341] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:01:46.4485] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:01:46.4485] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:01:46.4485] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 07:01:46.4653] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:01:46.4653] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:01:46.4653] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:01:46.4821] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 07:01:46.4821] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 07:01:46.4936] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 07:01:46.4936] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 07:01:46.4936] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 07:01:46.5108] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 07:01:46.5108] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 07:01:46.5108] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Madhuri Bhupthi 0 
+[2020-02-14 07:01:46.5283] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:01:46.5283] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:01:46.5283] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:01:46.5472] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 07:01:46.5472] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 07:01:46.5609] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 07:01:46.5609] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 07:01:46.5729] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 07:01:46.5729] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 07:01:46.5879] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 07:01:46.5879] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 07:01:46.6057] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 07:01:46.6057] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 07:01:46.6293] [INFO] [GradeBook.MainClass] FilePath: Input\ClassB.csv 
+[2020-02-14 07:01:46.6362] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:01:47.2587] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 07:01:47.2714] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:01:47.2819] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 07:01:47.2935] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 07:01:47.2935] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 07:01:47.3115] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 07:01:47.3115] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 07:01:47.3287] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:01:47.3382] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 07:01:47.3382] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:01:47.3551] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 07:01:47.3551] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 07:01:47.3712] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 07:01:47.3712] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:01:47.3886] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 07:01:47.3886] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 07:01:47.4037] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 07:01:47.4037] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 07:01:47.4196] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 07:01:47.4196] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 07:01:47.4356] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:01:47.4356] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 07:01:47.4526] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 07:01:47.4526] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 07:01:47.4682] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 07:01:47.4788] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 07:01:47.4788] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 07:01:47.4998] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 07:01:47.5112] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 07:01:47.5112] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 07:01:47.5320] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 07:01:47.5412] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 07:01:47.5412] [INFO] [GradeBook.MainClass] FilePath: Input\ClassC.csv 
+[2020-02-14 07:01:47.5624] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:01:48.0603] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 07:01:48.0603] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 07:01:48.0831] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 07:01:48.0943] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 07:01:48.1059] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:01:48.1059] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:01:48.1238] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 07:01:48.1238] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 07:01:48.1376] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:01:48.1376] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:01:48.1563] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 07:01:48.1563] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 07:01:48.1716] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 07:01:48.1716] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 07:01:48.1848] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:01:48.1848] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:01:48.1976] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:01:48.1976] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:01:48.1976] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 07:01:48.2184] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 07:01:48.2184] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:01:48.2330] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 07:01:48.2330] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 07:01:48.2502] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 07:01:48.2502] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 07:01:48.2656] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 07:01:48.2656] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 07:01:48.2854] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 07:01:48.2989] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 07:01:48.2989] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 07:01:48.3132] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 07:01:48.3132] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 07:05:55.4357] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 07:05:55.4848] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 3 
+[2020-02-14 07:05:55.4848] [INFO] [GradeBook.MainClass] FilePath: Input\ClassA.csv 
+[2020-02-14 07:05:55.4994] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:05:56.4209] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:05:56.4311] [DEBUG] [GradeBook.DiskBook] Average of class: NaN 
+[2020-02-14 07:05:56.4311] [INFO] [GradeBook.MainClass] FilePath: Input\ClassB.csv 
+[2020-02-14 07:05:56.4486] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:05:57.0861] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:05:57.0978] [DEBUG] [GradeBook.DiskBook] Average of class: NaN 
+[2020-02-14 07:05:57.1077] [INFO] [GradeBook.MainClass] FilePath: Input\ClassC.csv 
+[2020-02-14 07:05:57.1077] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:05:57.6885] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:05:57.7014] [DEBUG] [GradeBook.DiskBook] Average of class: NaN 
+[2020-02-14 07:06:37.5887] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 07:06:37.6309] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 3 
+[2020-02-14 07:06:37.6367] [INFO] [GradeBook.MainClass] FilePath: Input\ClassA.csv 
+[2020-02-14 07:06:37.6367] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:06:38.5608] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 07:06:38.5608] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:06:38.5796] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 07:06:38.5796] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 07:06:38.5936] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 07:06:38.5936] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:06:38.6088] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:06:38.6088] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:06:38.6234] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:06:38.6234] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:06:38.6387] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 07:06:38.6387] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:06:38.6537] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:06:38.6537] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:06:38.6687] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 07:06:38.6687] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 07:06:38.6840] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 07:06:38.6840] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 07:06:38.6991] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 07:06:38.6991] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:06:38.7145] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:06:38.7145] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:06:38.7312] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 07:06:38.7312] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 07:06:38.7499] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 07:06:38.7499] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 07:06:38.7649] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 07:06:38.7649] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 07:06:38.7830] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 07:06:38.7948] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 07:06:38.8144] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 07:06:38.8242] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 07:06:38.8242] [INFO] [GradeBook.MainClass] FilePath: Input\ClassB.csv 
+[2020-02-14 07:06:38.8454] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:06:39.4810] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 07:06:39.4810] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:06:39.5031] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 07:06:39.5125] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 07:06:39.5125] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 07:06:39.5294] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 07:06:39.5294] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 07:06:39.5486] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:06:39.5486] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 07:06:39.5679] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:06:39.5771] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 07:06:39.5771] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 07:06:39.5918] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 07:06:39.5918] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:06:39.6064] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 07:06:39.6064] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 07:06:39.6220] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 07:06:39.6220] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 07:06:39.6373] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 07:06:39.6373] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 07:06:39.6533] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:06:39.6533] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 07:06:39.6693] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 07:06:39.6693] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 07:06:39.6861] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 07:06:39.6861] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 07:06:39.7087] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 07:06:39.7213] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 07:06:39.7298] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 07:06:39.7298] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 07:06:39.7463] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 07:06:39.7463] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 07:06:39.7631] [INFO] [GradeBook.MainClass] FilePath: Input\ClassC.csv 
+[2020-02-14 07:06:39.7631] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:06:40.2599] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 07:06:40.2599] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 07:06:40.2809] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 07:06:40.2911] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 07:06:40.2911] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:06:40.3094] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:06:40.3094] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 07:06:40.3296] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 07:06:40.3414] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:06:40.3414] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:06:40.3564] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 07:06:40.3564] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 07:06:40.3733] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 07:06:40.3733] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 07:06:40.3864] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:06:40.3864] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:06:40.3864] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:06:40.4061] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:06:40.4061] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 07:06:40.4195] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 07:06:40.4195] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:06:40.4336] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 07:06:40.4336] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 07:06:40.4473] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 07:06:40.4473] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 07:06:40.4473] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 07:06:40.4666] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 07:06:40.4666] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 07:06:40.4859] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 07:06:40.5128] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 07:06:40.5314] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 07:06:40.5314] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 07:08:04.4340] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 07:08:04.4791] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 3 
+[2020-02-14 07:08:04.4791] [INFO] [GradeBook.MainClass] FilePath: Input\ClassA.csv 
+[2020-02-14 07:08:04.4938] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:08:05.2912] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 07:08:05.2912] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:08:05.3080] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 07:08:05.3080] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 07:08:05.3229] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 07:08:05.3229] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:08:05.3385] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:08:05.3385] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:08:05.3537] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:08:05.3537] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:08:05.3694] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 07:08:05.3694] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:08:05.3849] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:08:05.3849] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:08:05.3849] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 07:08:05.4059] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 07:08:05.4059] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 07:08:05.4211] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 07:08:05.4211] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 07:08:05.4371] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:08:05.4371] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:08:05.4576] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:08:05.4665] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 07:08:05.4665] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 07:08:05.4848] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 07:08:05.4949] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 07:08:05.4949] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 07:08:05.5210] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 07:08:05.5377] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 07:08:05.5488] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 07:08:05.5588] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 07:08:05.5588] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 07:08:05.5789] [INFO] [GradeBook.MainClass] FilePath: Input\ClassB.csv 
+[2020-02-14 07:08:05.5890] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:08:06.1968] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 07:08:06.2103] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:08:06.2219] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 07:08:06.2328] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 07:08:06.2328] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 07:08:06.2515] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 07:08:06.2618] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 07:08:06.2618] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:08:06.2753] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 07:08:06.2753] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:08:06.2753] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 07:08:06.2967] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 07:08:06.2967] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 07:08:06.3095] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:08:06.3095] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 07:08:06.3095] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 07:08:06.3289] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 07:08:06.3289] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 07:08:06.3401] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 07:08:06.3401] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 07:08:06.3537] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:08:06.3537] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 07:08:06.3537] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 07:08:06.3741] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 07:08:06.3741] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 07:08:06.3872] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 07:08:06.3872] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 07:08:06.3872] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 07:08:06.4055] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 07:08:06.4055] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 07:08:06.4204] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 07:08:06.4204] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 07:08:06.4340] [INFO] [GradeBook.MainClass] FilePath: Input\ClassC.csv 
+[2020-02-14 07:08:06.4340] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:08:06.9002] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 07:08:06.9002] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 07:08:06.9160] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 07:08:06.9160] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 07:08:06.9311] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:08:06.9311] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:08:06.9311] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 07:08:06.9517] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 07:08:06.9517] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:08:06.9649] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:08:06.9649] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 07:08:06.9804] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 07:08:06.9804] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 07:08:06.9973] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 07:08:06.9973] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:08:06.9973] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:08:07.0153] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:08:07.0153] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:08:07.0311] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 07:08:07.0311] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 07:08:07.0505] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:08:07.0574] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 07:08:07.0574] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 07:08:07.0722] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 07:08:07.0722] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 07:08:07.0722] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 07:08:07.0931] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 07:08:07.0931] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 07:08:07.1130] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 07:08:07.1210] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 07:08:07.1210] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 07:08:07.1356] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 07:14:11.7013] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 07:14:11.7435] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 3 
+[2020-02-14 07:14:11.7500] [INFO] [GradeBook.MainClass] FilePath: Input\ClassA.csv 
+[2020-02-14 07:14:11.7500] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:14:12.4120] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 07:14:12.4211] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:14:12.4211] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 07:14:12.4360] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 07:14:12.4360] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 07:14:12.4513] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:14:12.4513] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:14:12.4650] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:14:12.4650] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:14:12.4802] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:14:12.4802] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 07:14:12.4948] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:14:12.4948] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:14:12.5090] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:14:12.5090] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 07:14:12.5090] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 07:14:12.5321] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 07:14:12.5321] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 07:14:12.5460] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 07:14:12.5460] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:14:12.5599] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:14:12.5599] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:14:12.5759] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 07:14:12.5759] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 07:14:12.5900] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 07:14:12.5900] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 07:14:12.6068] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 07:14:12.6068] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 07:14:12.6261] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 07:14:12.6339] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 07:14:12.6339] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 07:14:12.6594] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 07:14:12.6696] [INFO] [GradeBook.MainClass] FilePath: Input\ClassB.csv 
+[2020-02-14 07:14:12.6696] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:14:13.1821] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 07:14:13.1821] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:14:13.2040] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 07:14:13.2146] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 07:14:13.2146] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 07:14:13.2309] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 07:14:13.2309] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 07:14:13.2492] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:14:13.2492] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 07:14:13.2656] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:14:13.2656] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 07:14:13.2821] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 07:14:13.2821] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 07:14:13.2976] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:14:13.2976] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 07:14:13.3129] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 07:14:13.3129] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 07:14:13.3285] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 07:14:13.3285] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 07:14:13.3439] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 07:14:13.3439] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:14:13.3606] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 07:14:13.3606] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 07:14:13.3754] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 07:14:13.3754] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 07:14:13.3920] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 07:14:13.4047] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 07:14:13.4158] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 07:14:13.4158] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 07:14:13.4372] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 07:14:13.4372] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 07:14:13.4527] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 07:14:13.4625] [INFO] [GradeBook.MainClass] FilePath: Input\ClassC.csv 
+[2020-02-14 07:14:13.4625] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:14:13.9257] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 07:14:13.9354] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 07:14:13.9354] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 07:14:13.9504] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 07:14:13.9504] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:14:13.9669] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:14:13.9669] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 07:14:13.9831] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 07:14:13.9831] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:14:14.0013] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:14:14.0099] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 07:14:14.0099] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 07:14:14.0267] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 07:14:14.0267] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 07:14:14.0466] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:14:14.0466] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:14:14.0663] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:14:14.0742] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:14:14.0742] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 07:14:14.0931] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 07:14:14.0931] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:14:14.1100] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 07:14:14.1233] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 07:14:14.1359] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 07:14:14.1359] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 07:14:14.1563] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 07:14:14.1563] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 07:14:14.1699] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 07:14:14.1699] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 07:14:14.1833] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 07:14:14.1833] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 07:14:14.1833] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 07:15:39.5885] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 07:15:39.6402] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 3 
+[2020-02-14 07:15:39.6402] [INFO] [GradeBook.MainClass] FilePath: Input\ClassA.csv 
+[2020-02-14 07:15:39.6537] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:15:40.3258] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 07:15:40.3258] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:15:40.3423] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 07:15:40.3423] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 07:15:40.3572] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 07:15:40.3572] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:15:40.3745] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:15:40.3745] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:15:40.3873] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:15:40.3873] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:15:40.3873] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 07:15:40.4046] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:15:40.4046] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:15:40.4156] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:15:40.4156] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 07:15:40.4156] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 07:15:40.4320] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 07:15:40.4320] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 07:15:40.4320] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 07:15:40.4486] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:15:40.4486] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:15:40.4486] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:15:40.4668] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 07:15:40.4668] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 07:15:40.4668] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 07:15:40.4841] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 07:15:40.4841] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 07:15:40.4947] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 07:15:40.4947] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 07:15:40.4947] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 07:15:40.5104] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 07:15:40.5104] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 07:15:40.5104] [INFO] [GradeBook.MainClass] FilePath: Input\ClassB.csv 
+[2020-02-14 07:15:40.5295] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:15:41.0735] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 07:15:41.0735] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:15:41.0931] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 07:15:41.0931] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 07:15:41.1108] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 07:15:41.1188] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 07:15:41.1188] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 07:15:41.1188] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:15:41.1421] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 07:15:41.1497] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:15:41.1497] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 07:15:41.1660] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 07:15:41.1660] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 07:15:41.1660] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:15:41.1887] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 07:15:41.1887] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 07:15:41.2029] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 07:15:41.2029] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 07:15:41.2176] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 07:15:41.2176] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 07:15:41.2319] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:15:41.2319] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 07:15:41.2469] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 07:15:41.2469] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 07:15:41.2614] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 07:15:41.2614] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 07:15:41.2756] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 07:15:41.2756] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 07:15:41.2926] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 07:15:41.2926] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 07:15:41.3084] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 07:15:41.3084] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 07:15:41.3343] [INFO] [GradeBook.MainClass] FilePath: Input\ClassC.csv 
+[2020-02-14 07:15:41.3484] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:15:41.7979] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 07:15:41.8072] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 07:15:41.8072] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 07:15:41.8256] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 07:15:41.8256] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:15:41.8436] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:15:41.8436] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 07:15:41.8580] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 07:15:41.8580] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:15:41.8704] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:15:41.8704] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 07:15:41.8704] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 07:15:41.8902] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 07:15:41.8902] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 07:15:41.9013] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:15:41.9013] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:15:41.9013] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:15:41.9179] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:15:41.9179] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 07:15:41.9179] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 07:15:41.9348] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:15:41.9348] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 07:15:41.9348] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 07:15:41.9528] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 07:15:41.9528] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 07:15:41.9651] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 07:15:41.9651] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 07:15:41.9651] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 07:15:41.9856] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 07:15:41.9856] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 07:15:41.9977] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 07:15:41.9977] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 07:16:59.1444] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 07:16:59.1895] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 3 
+[2020-02-14 07:16:59.1895] [INFO] [GradeBook.MainClass] FilePath: Input\ClassA.csv 
+[2020-02-14 07:16:59.2030] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:16:59.7269] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 07:16:59.7361] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:16:59.7361] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 07:16:59.7492] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 07:16:59.7492] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 07:16:59.7616] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:16:59.7616] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:16:59.7616] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:16:59.7789] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:16:59.7789] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:16:59.7910] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 07:16:59.7910] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:16:59.7910] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:16:59.8093] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:16:59.8093] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 07:16:59.8093] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 07:16:59.8296] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 07:16:59.8296] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 07:16:59.8424] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 07:16:59.8424] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:16:59.8557] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:16:59.8557] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:16:59.8730] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 07:16:59.8730] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 07:16:59.8933] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 07:16:59.9034] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 07:16:59.9034] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 07:16:59.9217] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 07:16:59.9217] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 07:16:59.9383] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 07:16:59.9477] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 07:16:59.9477] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 07:16:59.9639] [INFO] [GradeBook.MainClass] FilePath: Input\ClassB.csv 
+[2020-02-14 07:16:59.9639] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:17:00.7601] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 07:17:00.7601] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:17:00.7782] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 07:17:00.7782] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 07:17:00.7951] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 07:17:00.7951] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 07:17:00.8098] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 07:17:00.8098] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:17:00.8257] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 07:17:00.8257] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:17:00.8405] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 07:17:00.8405] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 07:17:00.8551] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 07:17:00.8551] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:17:00.8691] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 07:17:00.8691] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 07:17:00.8691] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 07:17:00.8904] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 07:17:00.8904] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 07:17:00.9022] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 07:17:00.9022] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:17:00.9022] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 07:17:00.9185] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 07:17:00.9185] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 07:17:00.9185] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 07:17:00.9342] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 07:17:00.9342] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 07:17:00.9342] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 07:17:00.9500] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 07:17:00.9500] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 07:17:00.9500] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 07:17:00.9657] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 07:17:00.9657] [INFO] [GradeBook.MainClass] FilePath: Input\ClassC.csv 
+[2020-02-14 07:17:00.9657] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:17:01.4583] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 07:17:01.4679] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 07:17:01.4679] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 07:17:01.4857] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 07:17:01.4942] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:17:01.4942] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:17:01.5101] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 07:17:01.5101] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 07:17:01.5279] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:17:01.5279] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:17:01.5441] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 07:17:01.5441] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 07:17:01.5652] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 07:17:01.5728] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 07:17:01.5728] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:17:01.5728] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:17:01.5914] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:17:01.5914] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:17:01.5914] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 07:17:01.6076] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 07:17:01.6076] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:17:01.6192] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 07:17:01.6192] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 07:17:01.6192] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 07:17:01.6357] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 07:17:01.6357] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 07:17:01.6357] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 07:17:01.6536] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 07:17:01.6536] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 07:17:01.6678] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 07:17:01.6678] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 07:17:01.6678] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 07:17:56.6386] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 07:17:56.6923] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 3 
+[2020-02-14 07:17:56.7005] [INFO] [GradeBook.MainClass] FilePath: Input\ClassA.csv 
+[2020-02-14 07:17:56.7005] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:17:57.4652] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 07:17:57.4652] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:17:57.4822] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 07:17:57.4822] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 07:17:57.5008] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 07:17:57.5008] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:17:57.5155] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:17:57.5155] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:17:57.5319] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:17:57.5319] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:17:57.5476] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 07:17:57.5476] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:17:57.5617] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:17:57.5617] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:17:57.5730] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 07:17:57.5730] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 07:17:57.5730] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 07:17:57.5895] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 07:17:57.5895] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 07:17:57.5895] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:17:57.6060] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:17:57.6060] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:17:57.6188] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 07:17:57.6188] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 07:17:57.6188] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 07:17:57.6356] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 07:17:57.6356] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 07:17:57.6356] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 07:17:57.6551] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 07:17:57.6551] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 07:17:57.6665] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 07:17:57.6665] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 07:17:57.6665] [INFO] [GradeBook.MainClass] FilePath: Input\ClassB.csv 
+[2020-02-14 07:17:57.7018] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:17:58.2108] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 07:17:58.2206] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:17:58.2284] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 07:17:58.2284] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 07:17:58.2473] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 07:17:58.2473] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 07:17:58.2620] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 07:17:58.2620] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:17:58.2769] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 07:17:58.2769] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:17:58.2934] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 07:17:58.2934] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 07:17:58.3081] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 07:17:58.3081] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:17:58.3232] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 07:17:58.3232] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 07:17:58.3379] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 07:17:58.3379] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 07:17:58.3379] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 07:17:58.3590] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 07:17:58.3590] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:17:58.3750] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 07:17:58.3750] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 07:17:58.3893] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 07:17:58.3893] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 07:17:58.4035] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 07:17:58.4035] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 07:17:58.4217] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 07:17:58.4330] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 07:17:58.4330] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 07:17:58.4587] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 07:17:58.4684] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 07:17:58.4684] [INFO] [GradeBook.MainClass] FilePath: Input\ClassC.csv 
+[2020-02-14 07:17:58.4856] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:17:58.9721] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 07:17:58.9828] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 07:17:58.9828] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 07:17:59.0013] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 07:17:59.0013] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:17:59.0183] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:17:59.0262] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 07:17:59.0262] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 07:17:59.0458] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:17:59.0458] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:17:59.0648] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 07:17:59.0726] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 07:17:59.0726] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 07:17:59.0726] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 07:17:59.0894] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:17:59.0894] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:17:59.0894] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:17:59.1059] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:17:59.1059] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 07:17:59.1059] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 07:17:59.1232] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:17:59.1232] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 07:17:59.1354] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 07:17:59.1354] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 07:17:59.1354] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 07:17:59.1531] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 07:17:59.1531] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 07:17:59.1531] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 07:17:59.1698] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 07:17:59.1698] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 07:17:59.1829] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 07:17:59.1829] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 07:19:55.9386] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 07:19:55.9808] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 3 
+[2020-02-14 07:19:55.9808] [INFO] [GradeBook.MainClass] FilePath: Input\ClassA.csv 
+[2020-02-14 07:19:55.9946] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:19:56.7147] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 07:19:56.7147] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:19:56.7313] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 07:19:56.7313] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 07:19:56.7463] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 07:19:56.7463] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:19:56.7609] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:19:56.7609] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:19:56.7786] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:19:56.7786] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:19:56.7977] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 07:19:56.7977] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:19:56.8117] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:19:56.8117] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:19:56.8257] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 07:19:56.8257] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 07:19:56.8397] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 07:19:56.8397] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 07:19:56.8535] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 07:19:56.8535] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:19:56.8535] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:19:56.8761] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:19:56.8841] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 07:19:56.8841] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 07:19:56.8841] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 07:19:56.9044] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 07:19:56.9044] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 07:19:56.9194] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 07:19:56.9194] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 07:19:56.9393] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 07:19:56.9551] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 07:19:56.9688] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 07:19:56.9688] [INFO] [GradeBook.MainClass] FilePath: Input\ClassB.csv 
+[2020-02-14 07:19:56.9836] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:19:57.5534] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 07:19:57.5638] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:19:57.5718] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 07:19:57.5718] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 07:19:57.5882] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 07:19:57.5882] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 07:19:57.6042] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 07:19:57.6042] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:19:57.6212] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 07:19:57.6212] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:19:57.6212] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 07:19:57.6378] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 07:19:57.6378] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 07:19:57.6523] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:19:57.6523] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 07:19:57.6523] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 07:19:57.6698] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 07:19:57.6698] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 07:19:57.6698] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 07:19:57.6860] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 07:19:57.6860] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:19:57.6978] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 07:19:57.6978] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 07:19:57.6978] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 07:19:57.7152] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 07:19:57.7152] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 07:19:57.7291] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 07:19:57.7291] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 07:19:57.7291] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 07:19:57.7455] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 07:19:57.7455] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 07:19:57.7455] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 07:19:57.7620] [INFO] [GradeBook.MainClass] FilePath: Input\ClassC.csv 
+[2020-02-14 07:19:57.7620] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:19:58.3089] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 07:19:58.3089] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 07:19:58.3309] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 07:19:58.3386] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 07:19:58.3386] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:19:58.3561] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:19:58.3561] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 07:19:58.3749] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 07:19:58.3749] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:19:58.3876] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:19:58.3876] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 07:19:58.4023] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 07:19:58.4023] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 07:19:58.4023] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 07:19:58.4191] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:19:58.4191] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:19:58.4191] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:19:58.4359] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:19:58.4359] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 07:19:58.4467] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 07:19:58.4467] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:19:58.4467] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 07:19:58.4636] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 07:19:58.4636] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 07:19:58.4636] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 07:19:58.4811] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 07:19:58.4811] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 07:19:58.4811] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 07:19:58.4981] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 07:19:58.4981] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 07:19:58.5123] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 07:19:58.5123] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 
+[2020-02-14 07:20:57.5156] [INFO] [GradeBook.MainClass] Grade calculation start 
+[2020-02-14 07:20:57.5581] [DEBUG] [GradeBook.MainClass] Number of CSV files in given directory: 3 
+[2020-02-14 07:20:57.5581] [INFO] [GradeBook.MainClass] FilePath: Input\ClassA.csv 
+[2020-02-14 07:20:57.5721] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:20:58.2587] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92  
+[2020-02-14 07:20:58.2697] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:20:58.2774] [DEBUG] [GradeBook.DiskBook] Actual Grade: 70  
+[2020-02-14 07:20:58.2774] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 70 
+[2020-02-14 07:20:58.2919] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88  
+[2020-02-14 07:20:58.2919] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:20:58.3077] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:20:58.3077] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:20:58.3279] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:20:58.3388] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:20:58.3388] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99  
+[2020-02-14 07:20:58.3388] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:20:58.3616] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:20:58.3699] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:20:58.3699] [DEBUG] [GradeBook.DiskBook] Actual Grade: 62  
+[2020-02-14 07:20:58.3699] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 62 
+[2020-02-14 07:20:58.3866] [DEBUG] [GradeBook.DiskBook] Actual Grade: 0  
+[2020-02-14 07:20:58.3866] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 0 
+[2020-02-14 07:20:58.3866] [DEBUG] [GradeBook.DiskBook] Discarded name & grade: Edith Adkins 0 
+[2020-02-14 07:20:58.4032] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:20:58.4032] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:20:58.4032] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:20:58.4205] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 92 
+[2020-02-14 07:20:58.4205] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 162 
+[2020-02-14 07:20:58.4205] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 250 
+[2020-02-14 07:20:58.4377] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 302 
+[2020-02-14 07:20:58.4377] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 384 
+[2020-02-14 07:20:58.4511] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 483 
+[2020-02-14 07:20:58.4511] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 558 
+[2020-02-14 07:20:58.4511] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 620 
+[2020-02-14 07:20:58.4691] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 715 
+[2020-02-14 07:20:58.4691] [DEBUG] [GradeBook.DiskBook] Average of class: 79.4 
+[2020-02-14 07:20:58.4813] [INFO] [GradeBook.MainClass] FilePath: Input\ClassB.csv 
+[2020-02-14 07:20:58.4813] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:20:59.0442] [DEBUG] [GradeBook.DiskBook] Actual Grade: 99.9  
+[2020-02-14 07:20:59.0442] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 99 
+[2020-02-14 07:20:59.0612] [DEBUG] [GradeBook.DiskBook] Actual Grade: 43.2  
+[2020-02-14 07:20:59.0612] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 43 
+[2020-02-14 07:20:59.0783] [DEBUG] [GradeBook.DiskBook] Actual Grade: 65.4  
+[2020-02-14 07:20:59.0783] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 65 
+[2020-02-14 07:20:59.0927] [DEBUG] [GradeBook.DiskBook] Actual Grade: 88.5  
+[2020-02-14 07:20:59.1034] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 88 
+[2020-02-14 07:20:59.1034] [DEBUG] [GradeBook.DiskBook] Actual Grade: 92.1  
+[2020-02-14 07:20:59.1184] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 92 
+[2020-02-14 07:20:59.1184] [DEBUG] [GradeBook.DiskBook] Actual Grade: 94.6  
+[2020-02-14 07:20:59.1184] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 94 
+[2020-02-14 07:20:59.1396] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75.3  
+[2020-02-14 07:20:59.1396] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:20:59.1566] [DEBUG] [GradeBook.DiskBook] Actual Grade: 78.9  
+[2020-02-14 07:20:59.1566] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 78 
+[2020-02-14 07:20:59.1705] [DEBUG] [GradeBook.DiskBook] Actual Grade: 89.1  
+[2020-02-14 07:20:59.1705] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 89 
+[2020-02-14 07:20:59.1842] [DEBUG] [GradeBook.DiskBook] Actual Grade: 79.5  
+[2020-02-14 07:20:59.1842] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 79 
+[2020-02-14 07:20:59.1986] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:20:59.1986] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 99 
+[2020-02-14 07:20:59.2133] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 142 
+[2020-02-14 07:20:59.2133] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 207 
+[2020-02-14 07:20:59.2277] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 295 
+[2020-02-14 07:20:59.2277] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 387 
+[2020-02-14 07:20:59.2277] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 481 
+[2020-02-14 07:20:59.2511] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 556 
+[2020-02-14 07:20:59.2511] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 634 
+[2020-02-14 07:20:59.2721] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 723 
+[2020-02-14 07:20:59.2812] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 802 
+[2020-02-14 07:20:59.2812] [DEBUG] [GradeBook.DiskBook] Average of class: 80.2 
+[2020-02-14 07:20:59.2993] [INFO] [GradeBook.MainClass] FilePath: Input\ClassC.csv 
+[2020-02-14 07:20:59.3069] [INFO] [GradeBook.DiskBook] Inside AddGrade() 
+[2020-02-14 07:20:59.7771] [DEBUG] [GradeBook.DiskBook] Actual Grade: 83  
+[2020-02-14 07:20:59.7771] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 83 
+[2020-02-14 07:20:59.7988] [DEBUG] [GradeBook.DiskBook] Actual Grade: 66  
+[2020-02-14 07:20:59.7988] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 66 
+[2020-02-14 07:20:59.8118] [DEBUG] [GradeBook.DiskBook] Actual Grade: 52  
+[2020-02-14 07:20:59.8118] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 52 
+[2020-02-14 07:20:59.8274] [DEBUG] [GradeBook.DiskBook] Actual Grade: 98  
+[2020-02-14 07:20:59.8274] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 98 
+[2020-02-14 07:20:59.8426] [DEBUG] [GradeBook.DiskBook] Actual Grade: 95  
+[2020-02-14 07:20:59.8426] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 95 
+[2020-02-14 07:20:59.8564] [DEBUG] [GradeBook.DiskBook] Actual Grade: 93  
+[2020-02-14 07:20:59.8564] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 93 
+[2020-02-14 07:20:59.8699] [DEBUG] [GradeBook.DiskBook] Actual Grade: 84  
+[2020-02-14 07:20:59.8699] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 84 
+[2020-02-14 07:20:59.8699] [DEBUG] [GradeBook.DiskBook] Actual Grade: 82  
+[2020-02-14 07:20:59.8878] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 82 
+[2020-02-14 07:20:59.8878] [DEBUG] [GradeBook.DiskBook] Actual Grade: 75  
+[2020-02-14 07:20:59.8878] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 75 
+[2020-02-14 07:20:59.9048] [DEBUG] [GradeBook.DiskBook] Actual Grade: 73  
+[2020-02-14 07:20:59.9048] [DEBUG] [GradeBook.DiskBook] Grade after truncate: 73 
+[2020-02-14 07:20:59.9160] [INFO] [GradeBook.DiskBook] Inside GetStatistics() 
+[2020-02-14 07:20:59.9160] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 83 
+[2020-02-14 07:20:59.9160] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 149 
+[2020-02-14 07:20:59.9330] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 201 
+[2020-02-14 07:20:59.9330] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 299 
+[2020-02-14 07:20:59.9330] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 394 
+[2020-02-14 07:20:59.9505] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 487 
+[2020-02-14 07:20:59.9505] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 571 
+[2020-02-14 07:20:59.9505] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 653 
+[2020-02-14 07:20:59.9666] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 728 
+[2020-02-14 07:20:59.9666] [DEBUG] [GradeBook.DiskBook] Total Grade for now: 801 
+[2020-02-14 07:20:59.9666] [DEBUG] [GradeBook.DiskBook] Average of class: 80.1 

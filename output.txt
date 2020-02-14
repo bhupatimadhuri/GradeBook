@@ -1,0 +1,24 @@
+
+ The highest performing class : ClassB
+ The average score for all students: 79.9
+ *********************************************************************************************
+ Class Name: ClassA
+ Average score of the class: 79.4
+ Total number of students within the class: 10
+ The number of students used to calculate the class average: 9
+ The names of any students who were discarded from consideration: Edith Adkins
+
+ *********************************************************************************************
+ Class Name: ClassB
+ Average score of the class: 80.2
+ Total number of students within the class: 10
+ The number of students used to calculate the class average: 10
+ The names of any students who were discarded from consideration: N/A
+
+ *********************************************************************************************
+ Class Name: ClassC
+ Average score of the class: 80.1
+ Total number of students within the class: 10
+ The number of students used to calculate the class average: 10
+ The names of any students who were discarded from consideration: N/A
+

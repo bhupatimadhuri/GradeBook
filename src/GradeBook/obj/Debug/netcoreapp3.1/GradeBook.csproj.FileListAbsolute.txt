@@ -1,0 +1,13 @@
+C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CopyComplete
+C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\Madhuri.Bhupathi\source\repos\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
